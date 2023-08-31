@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ConvText/static/css/main.31d6cfe0.css",
+    "main.js": "/ConvText/static/js/main.f6420e1e.js",
+    "static/js/787.5c7f84a2.chunk.js": "/ConvText/static/js/787.5c7f84a2.chunk.js",
+    "index.html": "/ConvText/index.html",
+    "main.f6420e1e.js.map": "/ConvText/static/js/main.f6420e1e.js.map",
+    "787.5c7f84a2.chunk.js.map": "/ConvText/static/js/787.5c7f84a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.f6420e1e.js"
+  ]
+}
